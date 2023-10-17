@@ -3,7 +3,7 @@ import './assets/scss/all.scss';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import { name } from 'ejs';
 
-const url = 'http://localhost:3000';
+const url = 'https://json-auth-test.onrender.com';
 const list = document.querySelector('#list');
 const txt = document.querySelector('#txt');
 const btnSave = document.querySelector('#btn-save');
